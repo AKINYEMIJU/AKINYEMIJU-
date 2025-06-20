@@ -1,4 +1,4 @@
-<!-- README.md for GitHub Profile with Animations -->
+<!-- Animated GitHub Profile README with Buy Me a Coffee -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&color=F76C6C&width=600&lines=Hey+there!+I'm+Precious+Akinwunmi+👋;A+Friendly+Dev+%F0%9F%92%BB;Creative+Thinker+%F0%9F%8C%9F;Let's+Build+Something+Awesome!+%F0%9F%9A%80" />
@@ -17,6 +17,13 @@ Hey! I'm **Precious**, a passionate and curious developer from Nigeria 🇳🇬.
 🌍 Goal: Build tech that inspires and empowers people  
 
 > Fun Fact: I believe coffee and code can fix anything ☕💻
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://t
 
 ---
 
